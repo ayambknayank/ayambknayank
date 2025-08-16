@@ -11,7 +11,9 @@
 ###
 
 <div align="left">
+<a href="www.linkedin.com/in/mfadhilp">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
 </div>
@@ -45,5 +47,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Fadhil.&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+![Fadhil's spotify](https://spotify-recently-played-readme.vercel.app/api?user=31n52cd2x4sbmvfi5bf6gigkb32a&unique={true|1|on|yes})
 
 ###

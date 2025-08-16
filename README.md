@@ -1,4 +1,4 @@
-<h1 align="left">HELLO WORLD👋 I'M FADHIL</h1>
+<h1 align="left">Hello World👋 I'M FADHIL</h1>
 
 ###
 
